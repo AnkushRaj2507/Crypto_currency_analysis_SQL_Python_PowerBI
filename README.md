@@ -6,9 +6,13 @@ The cryptocurrency market is a global, decentralized financial ecosystem that ha
 Insights and recommendations are provided on the following key areas:
 
 Category 1: Price trend and momentum analysis
+
 Category 2: Volume behavior and trading activity shifts
+
 Category 3: Market dominance and capital concentration
+
 Category 4: Outlier and anomaly detection using comparative analysis
+
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
