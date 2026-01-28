@@ -66,11 +66,13 @@ Initial checks include validation of numeric data types, deduplication of dimens
 <img width="951" height="746" alt="image" src="https://github.com/user-attachments/assets/3340ec8f-3b1e-4a46-84b0-9d700f9458a2" />
 
 
-Executive Summary
+# Executive Summary
 Overview of Findings
+
 This analysis shows that cryptocurrency markets are highly skewed, with a small number of large-cap assets dominating total market value while smaller assets exhibit significantly higher volatility. Volume spikes often precede or accompany sharp price movements, providing early signals of momentum shifts. Scatter-based analysis reveals anomalies and speculative behavior that are not easily observable in traditional line charts.
 
-[Visualization, including a snapshot of the Power BI dashboard]
+<img width="1297" height="712" alt="image" src="https://github.com/user-attachments/assets/af8b68c0-3a3f-4b56-8e23-205910363b52" />
+
 
 Insights Deep Dive
 Category 1: Price trend and momentum analysis
