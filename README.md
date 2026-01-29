@@ -74,8 +74,9 @@ This analysis shows that cryptocurrency markets are highly skewed, with a small 
 <img width="1297" height="712" alt="image" src="https://github.com/user-attachments/assets/af8b68c0-3a3f-4b56-8e23-205910363b52" />
 
 
-Insights Deep Dive
-Category 1: Price trend and momentum analysis
+# Insights Deep Dive
+### Category 1: Price trend and momentum analysis
+
 Main insight 1. Short-term price movements at 5-minute intervals are extremely noisy, but applying moving averages reveals clearer directional trends over intraday periods.
 
 Main insight 2. Sustained upward price movement is often visible before major breakouts when viewed across rolling time windows rather than single intervals.
@@ -108,7 +109,42 @@ Main insight 4. Smaller assets rarely gain dominance without corresponding volum
 
 [Visualization specific to category 3]
 
-Category 4: Outlier and anomaly detection
+# Insights Deep Dive
+### Category 1: Price trend and momentum analysis
+
+Main insight 1. Short-term price movements at 5-minute intervals are extremely noisy, but applying moving averages reveals clearer directional trends over intraday periods.
+
+Main insight 2. Sustained upward price movement is often visible before major breakouts when viewed across rolling time windows rather than single intervals.
+
+Main insight 3. Large-cap cryptocurrencies tend to show smoother price trends compared to small-cap assets, which experience abrupt spikes and reversals.
+
+Main insight 4. Filtering visuals to the latest timestamp prevents misleading conclusions caused by historical aggregation.
+
+[Visualization specific to category 1]
+
+### Category 2: Volume behavior and trading activity shifts
+Main insight 1. Significant increases in trading volume often coincide with heightened market attention and precede sharp price changes.
+
+Main insight 2. Assets with rising volume but flat price frequently indicate accumulation or distribution phases.
+
+Main insight 3. Volume change metrics provide stronger short-term signals than absolute volume values alone.
+
+Main insight 4. Comparing volume behavior across assets highlights disproportionate interest in specific cryptocurrencies.
+
+[Visualization specific to category 2]
+
+### Category 3: Market dominance and capital concentration
+Main insight 1. Market capitalization dominance remains heavily concentrated among a small set of large cryptocurrencies.
+
+Main insight 2. Shifts in dominance reflect broader market sentiment changes between risk-on and risk-off phases.
+
+Main insight 3. Dominance metrics calculated using latest snapshot logic provide a more accurate view than averaged historical values.
+
+Main insight 4. Smaller assets rarely gain dominance without corresponding volume expansion.
+
+[Visualization specific to category 3]
+
+### Category 4: Outlier and anomaly detection
 Main insight 1. Scatter plots comparing price change and volume change effectively surface abnormal trading behavior.
 
 Main insight 2. Large-cap outliers indicate systemic market events, while small-cap outliers often represent speculative spikes.
